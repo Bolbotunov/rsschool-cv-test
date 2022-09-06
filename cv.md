@@ -6,7 +6,7 @@
 * GitHub: Bolbotunov
 ## Summary:
 At the moment I am studying at RS School on the Frontend Developer Stage0 course. Today I have been working in logistics for 6 years,in Freight. I will plan to find a job as a Frontend Developer after completing the course
-Finished Rsschool 2022Q2
+Finished Rsschool 2022Q2. I started learn Frontend in Rsshool 2022Q3. Stage #1
 ## Experience and skills:
 #### Basic knowledge:
 1. HTML
