@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://BolbotunovE.github.io/rsschool-cv/cv
+https://Bolbotunov.github.io/rsschool-cv/cv
